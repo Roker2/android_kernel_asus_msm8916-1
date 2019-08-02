@@ -17,7 +17,7 @@ FINAL_ZIP=$KERNEL_NAME-$VERSION-$DATE-$DEVICE.zip
 defconfig=ze500kl-custom_defconfig
 
 # Dirs
-KERNEL_DIR=/home/dmitry/android_kernel_gunmetal/
+KERNEL_DIR=/home/dmitry/android_kernel_asus_msm8916
 ANYKERNEL_DIR=$KERNEL_DIR/AnyKernel3
 KERNEL_IMG=$KERNEL_DIR/out/arch/arm64/boot/Image.gz-dtb
 UPLOAD_DIR=/home/dmitry/out
